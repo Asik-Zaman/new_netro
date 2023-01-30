@@ -74,6 +74,7 @@ class BestSellingcard extends StatelessWidget {
                         ),
                       ],
                     ),
+                    
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
@@ -95,6 +96,7 @@ class BestSellingcard extends StatelessWidget {
                         )
                       ],
                     )
+                  
                   ],
                 ),
               ),

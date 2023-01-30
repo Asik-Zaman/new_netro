@@ -150,6 +150,7 @@ class _HomePageState extends State<HomePage> {
                         })),
                       ),
                     ),
+                    
                     SizedBox(
                       height: 8,
                     ),
@@ -196,6 +197,7 @@ class _HomePageState extends State<HomePage> {
                         )
                       ],
                     ),
+                    
                     SizedBox(
                       height: 15,
                     ),
@@ -236,6 +238,7 @@ class _HomePageState extends State<HomePage> {
                         ),
                       ],
                     ),
+                    
                     SizedBox(
                       height: 10,
                     ),
@@ -257,6 +260,7 @@ class _HomePageState extends State<HomePage> {
                         ],
                       ),
                     ),
+                   
                     SizedBox(
                       height: 24,
                     ),
@@ -310,6 +314,7 @@ class _HomePageState extends State<HomePage> {
                           price: '199.95',
                           title: 'Coat down...')
                     ]),
+                   
                     SizedBox(
                       height: 24,
                     ),
